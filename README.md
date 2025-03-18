@@ -2,6 +2,10 @@
 
 A modern, AI-powered slide presentation template using Next.js, React, and Tailwind CSS. Create beautiful presentations quickly with the help of AI.
 
+## Live Demo
+
+Check out the live demo: [AI Slides Template Demo](https://YOUR_USERNAME.github.io/ai-slides-template/)
+
 ![AI Slides Template Demo](https://via.placeholder.com/800x400?text=AI+Slides+Template)
 
 ## Features
