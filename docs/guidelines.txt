@@ -1,0 +1,44 @@
+Presentation Guidelines
+====================
+
+This file contains guidelines for creating your presentation. You can edit this file to specify your preferences for design, content structure, and visual style.
+
+Design Preferences
+-----------------
+- Style: Modern, minimalist
+- Color Scheme: Blue and teal primary colors (but you can customize)
+- Font: Sans-serif, clean typography
+- Visuals: Use diagrams, charts, and images where helpful
+- Animations: Subtle transitions between content elements
+
+Content Structure
+----------------
+- Aim for 5-7 main sections/slides
+- Each slide should focus on one main point or concept
+- Use bullet points for key information
+- Include relevant examples or case studies
+- End with a clear conclusion or call-to-action
+
+Visual Elements
+--------------
+- Include relevant images or icons for each key point
+- Use consistent visual styling throughout
+- Consider using diagrams for complex concepts
+- Maintain adequate white space
+- Ensure text is readable (sufficient contrast and size)
+
+Presentation Tips
+----------------
+- Use the keyboard (arrow keys or space) to navigate between slides
+- Practice with the actual slides before presenting
+- Test the presentation on the device you'll use for the actual presentation
+- Consider audience questions when designing your content
+- Time your presentation (aim for about 2-3 minutes per slide)
+
+Content to Include
+----------------
+- Brief introduction of the topic and why it matters
+- Key points supported by evidence
+- Visual illustrations of concepts
+- Summary of main takeaways
+- References or additional resources (if appropriate)

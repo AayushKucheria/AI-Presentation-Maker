@@ -1,0 +1,45 @@
+{
+  "name": "ai-slides-template",
+  "version": "0.1.0",
+  "description": "AI-powered slide presentation template - Create beautiful presentations using AI assistance and your own documents",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "NODE_ENV=production DISABLE_ESLINT_PLUGIN=true next build",
+    "deploy": "npm run export && touch out/.nojekyll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/ai-slides-template.git"
+  },
+  "keywords": [
+    "ai-slides",
+    "presentation-template",
+    "artificial-intelligence",
+    "slides-generator",
+    "next.js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "framer-motion": "^12.4.7",
+    "lucide-react": "^0.476.0",
+    "next": "15.1.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.7",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
