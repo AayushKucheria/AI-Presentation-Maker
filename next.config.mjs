@@ -1,6 +1,6 @@
 // next.config.mjs
 const isProd = process.env.NODE_ENV === 'production';
-const repoName = '/ai-slides-template';
+const repoName = '/AI-Presentation-Maker';
 
 const nextConfig = {
   /* config options here */
