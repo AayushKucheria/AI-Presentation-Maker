@@ -4,7 +4,7 @@ A modern, AI-powered slide presentation template using Next.js, React, and Tailw
 
 ## Live Demo
 
-Check out the live demo: [AI Slides Template Demo](https://YOUR_USERNAME.github.io/ai-slides-template/)
+Check out the live demo: [AI Slides Template Demo](https://aayushkucheria.github.io/ai-slides-template/)
 
 ![AI Slides Template Demo](https://via.placeholder.com/800x400?text=AI+Slides+Template)
 
@@ -29,7 +29,7 @@ Check out the live demo: [AI Slides Template Demo](https://YOUR_USERNAME.github.
 1. Clone this repository or use it as a template:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-slides-template.git
+git clone https://github.com/aayushkucheria/ai-slides-template.git
 cd ai-slides-template
 ```
 
@@ -119,7 +119,7 @@ You can customize almost every aspect of the presentation:
 1. Push your presentation to GitHub
 2. Run `npm run deploy` to build for GitHub Pages
 3. Configure GitHub Pages in your repository settings
-4. Your presentation will be published at `https://YOUR_USERNAME.github.io/your-presentation`
+4. Your presentation will be published at `https://aayushkucheria.github.io/your-presentation`
 
 ### Other Hosting Options
 

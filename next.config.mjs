@@ -1,6 +1,6 @@
 // next.config.mjs
 const isProd = process.env.NODE_ENV === 'production';
-const repoName = '/ai-flow-presentation';
+const repoName = '/ai-slides-template';
 
 const nextConfig = {
   /* config options here */
@@ -14,7 +14,7 @@ const nextConfig = {
   // Add base path if deploying to a custom subdomain (e.g., username.github.io/repo-name)
   basePath: isProd ? repoName : '',
   // Ensure assets are correctly referenced
-  assetPrefix: isProd ? repoName + '/' : '',
+  assetPrefix: isProd ? repoName : '',
   // Disable ESLint during build
   eslint: {
     ignoreDuringBuilds: true,
