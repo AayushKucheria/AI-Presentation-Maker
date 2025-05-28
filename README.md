@@ -119,7 +119,7 @@ You can customize almost every aspect of the presentation:
 1. Push your presentation to GitHub
 2. Run `npm run deploy` to build for GitHub Pages
 3. Configure GitHub Pages in your repository settings
-4. Your presentation will be published at `https://aayushkucheria.github.io/AI-Presentation-Maker`
+4. Your presentation will be published at `https://yourusername.github.io/yourRepoName`
 
 ### Other Hosting Options
 
